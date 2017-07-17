@@ -1,0 +1,265 @@
+Euler Implicito Punto C4.txt
+SOLUCION PARA EULER IMPLICITO 
+Paso = 1.00
+Año: 1
+U0 = 1.260000  T = 0.0  MES = 1.0
+U1 = 1.327083  T = 1.00  MES = 2.00 Iteraciones hechas con Newton Raphson: 3
+U2 = 1.384892  T = 2.00  MES = 3.00 Iteraciones hechas con Newton Raphson: 3
+U3 = 1.434709  T = 3.00  MES = 4.00 Iteraciones hechas con Newton Raphson: 3
+U4 = 1.477638  T = 4.00  MES = 5.00 Iteraciones hechas con Newton Raphson: 3
+U5 = 1.514626  T = 5.00  MES = 6.00 Iteraciones hechas con Newton Raphson: 3
+U6 = 3.016876  T = 6.00  MES = 7.00 Iteraciones hechas con Newton Raphson: 3
+U7 = 2.809249  T = 7.00  MES = 8.00 Iteraciones hechas con Newton Raphson: 3
+U8 = 2.631497  T = 8.00  MES = 9.00 Iteraciones hechas con Newton Raphson: 3
+U9 = 2.479169  T = 9.00  MES = 10.00 Iteraciones hechas con Newton Raphson: 3
+U10 = 2.348527  T = 10.00  MES = 11.00 Iteraciones hechas con Newton Raphson: 3
+U11 = 2.236414  T = 11.00  MES = 12.00 Iteraciones hechas con Newton Raphson: 3
+Año: 2
+U12 = 2.507620  T = 12.00  MES = 1.00 Iteraciones hechas con Newton Raphson: 3
+U13 = 2.398357  T = 13.00  MES = 2.00 Iteraciones hechas con Newton Raphson: 3
+U14 = 2.304852  T = 14.00  MES = 3.00 Iteraciones hechas con Newton Raphson: 3
+U15 = 2.224808  T = 15.00  MES = 4.00 Iteraciones hechas con Newton Raphson: 3
+U16 = 2.156257  T = 16.00  MES = 5.00 Iteraciones hechas con Newton Raphson: 3
+U17 = 2.097522  T = 17.00  MES = 6.00 Iteraciones hechas con Newton Raphson: 3
+U18 = 3.517556  T = 18.00  MES = 7.00 Iteraciones hechas con Newton Raphson: 3
+U19 = 3.235944  T = 19.00  MES = 8.00 Iteraciones hechas con Newton Raphson: 3
+U20 = 2.995699  T = 20.00  MES = 9.00 Iteraciones hechas con Newton Raphson: 3
+U21 = 2.790379  T = 21.00  MES = 10.00 Iteraciones hechas con Newton Raphson: 3
+U22 = 2.614677  T = 22.00  MES = 11.00 Iteraciones hechas con Newton Raphson: 3
+U23 = 2.464170  T = 23.00  MES = 12.00 Iteraciones hechas con Newton Raphson: 3
+Año: 3
+U24 = 2.703072  T = 24.00  MES = 1.00 Iteraciones hechas con Newton Raphson: 3
+U25 = 2.564364  T = 25.00  MES = 2.00 Iteraciones hechas con Newton Raphson: 3
+U26 = 2.445948  T = 26.00  MES = 3.00 Iteraciones hechas con Newton Raphson: 3
+U27 = 2.344800  T = 27.00  MES = 4.00 Iteraciones hechas con Newton Raphson: 3
+U28 = 2.258341  T = 28.00  MES = 5.00 Iteraciones hechas con Newton Raphson: 3
+U29 = 2.184388  T = 29.00  MES = 6.00 Iteraciones hechas con Newton Raphson: 3
+U30 = 3.595057  T = 30.00  MES = 7.00 Iteraciones hechas con Newton Raphson: 3
+U31 = 3.300884  T = 31.00  MES = 8.00 Iteraciones hechas con Newton Raphson: 3
+U32 = 3.050217  T = 32.00  MES = 9.00 Iteraciones hechas con Newton Raphson: 3
+U33 = 2.836200  T = 33.00  MES = 10.00 Iteraciones hechas con Newton Raphson: 3
+U34 = 2.653210  T = 34.00  MES = 11.00 Iteraciones hechas con Newton Raphson: 3
+U35 = 2.496577  T = 35.00  MES = 12.00 Iteraciones hechas con Newton Raphson: 3
+Año: 4
+U36 = 2.731216  T = 36.00  MES = 1.00 Iteraciones hechas con Newton Raphson: 3
+U37 = 2.586963  T = 37.00  MES = 2.00 Iteraciones hechas con Newton Raphson: 3
+U38 = 2.464052  T = 38.00  MES = 3.00 Iteraciones hechas con Newton Raphson: 3
+U39 = 2.359261  T = 39.00  MES = 4.00 Iteraciones hechas con Newton Raphson: 3
+U40 = 2.269839  T = 40.00  MES = 5.00 Iteraciones hechas con Newton Raphson: 3
+U41 = 2.193472  T = 41.00  MES = 6.00 Iteraciones hechas con Newton Raphson: 3
+U42 = 3.606478  T = 42.00  MES = 7.00 Iteraciones hechas con Newton Raphson: 3
+U43 = 3.309483  T = 43.00  MES = 8.00 Iteraciones hechas con Newton Raphson: 3
+U44 = 3.056599  T = 44.00  MES = 9.00 Iteraciones hechas con Newton Raphson: 3
+U45 = 2.840833  T = 45.00  MES = 10.00 Iteraciones hechas con Newton Raphson: 3
+U46 = 2.656461  T = 46.00  MES = 11.00 Iteraciones hechas con Newton Raphson: 3
+U47 = 2.498734  T = 47.00  MES = 12.00 Iteraciones hechas con Newton Raphson: 3
+Año: 5
+U48 = 2.733499  T = 48.00  MES = 1.00 Iteraciones hechas con Newton Raphson: 3
+U49 = 2.587413  T = 49.00  MES = 2.00 Iteraciones hechas con Newton Raphson: 3
+U50 = 2.463174  T = 50.00  MES = 3.00 Iteraciones hechas con Newton Raphson: 3
+U51 = 2.357444  T = 51.00  MES = 4.00 Iteraciones hechas con Newton Raphson: 3
+U52 = 2.267374  T = 52.00  MES = 5.00 Iteraciones hechas con Newton Raphson: 3
+U53 = 2.190573  T = 53.00  MES = 6.00 Iteraciones hechas con Newton Raphson: 3
+U54 = 3.607751  T = 54.00  MES = 7.00 Iteraciones hechas con Newton Raphson: 3
+U55 = 3.309431  T = 55.00  MES = 8.00 Iteraciones hechas con Newton Raphson: 3
+U56 = 3.055591  T = 56.00  MES = 9.00 Iteraciones hechas con Newton Raphson: 3
+U57 = 2.839144  T = 57.00  MES = 10.00 Iteraciones hechas con Newton Raphson: 3
+U58 = 2.654296  T = 58.00  MES = 11.00 Iteraciones hechas con Newton Raphson: 3
+U59 = 2.496249  T = 59.00  MES = 12.00 Iteraciones hechas con Newton Raphson: 3
+Año: 6
+U60 = 2.731824  T = 60.00  MES = 1.00 Iteraciones hechas con Newton Raphson: 3
+U61 = 2.584465  T = 61.00  MES = 2.00 Iteraciones hechas con Newton Raphson: 3
+U62 = 2.459378  T = 62.00  MES = 3.00 Iteraciones hechas con Newton Raphson: 3
+U63 = 2.353122  T = 63.00  MES = 4.00 Iteraciones hechas con Newton Raphson: 3
+U64 = 2.262759  T = 64.00  MES = 5.00 Iteraciones hechas con Newton Raphson: 3
+U65 = 2.185829  T = 65.00  MES = 6.00 Iteraciones hechas con Newton Raphson: 3
+U66 = 3.607484  T = 66.00  MES = 7.00 Iteraciones hechas con Newton Raphson: 3
+U67 = 3.308063  T = 67.00  MES = 8.00 Iteraciones hechas con Newton Raphson: 3
+U68 = 3.053455  T = 68.00  MES = 9.00 Iteraciones hechas con Newton Raphson: 3
+U69 = 2.836487  T = 69.00  MES = 10.00 Iteraciones hechas con Newton Raphson: 3
+U70 = 2.651302  T = 70.00  MES = 11.00 Iteraciones hechas con Newton Raphson: 3
+U71 = 2.493052  T = 71.00  MES = 12.00 Iteraciones hechas con Newton Raphson: 3
+Año: 7
+U72 = 2.729551  T = 72.00  MES = 1.00 Iteraciones hechas con Newton Raphson: 3
+U73 = 2.580991  T = 73.00  MES = 2.00 Iteraciones hechas con Newton Raphson: 3
+U74 = 2.455126  T = 74.00  MES = 3.00 Iteraciones hechas con Newton Raphson: 3
+U75 = 2.348405  T = 75.00  MES = 4.00 Iteraciones hechas con Newton Raphson: 3
+U76 = 2.257802  T = 76.00  MES = 5.00 Iteraciones hechas con Newton Raphson: 3
+U77 = 2.180790  T = 77.00  MES = 6.00 Iteraciones hechas con Newton Raphson: 3
+U78 = 3.606992  T = 78.00  MES = 7.00 Iteraciones hechas con Newton Raphson: 3
+U79 = 3.306497  T = 79.00  MES = 8.00 Iteraciones hechas con Newton Raphson: 3
+U80 = 3.051147  T = 80.00  MES = 9.00 Iteraciones hechas con Newton Raphson: 3
+U81 = 2.833681  T = 81.00  MES = 10.00 Iteraciones hechas con Newton Raphson: 3
+U82 = 2.648178  T = 82.00  MES = 11.00 Iteraciones hechas con Newton Raphson: 3
+U83 = 2.489743  T = 83.00  MES = 12.00 Iteraciones hechas con Newton Raphson: 3
+Año: 8
+U84 = 2.727191  T = 84.00  MES = 1.00 Iteraciones hechas con Newton Raphson: 3
+U85 = 2.577431  T = 85.00  MES = 2.00 Iteraciones hechas con Newton Raphson: 3
+U86 = 2.450791  T = 86.00  MES = 3.00 Iteraciones hechas con Newton Raphson: 3
+U87 = 2.343612  T = 87.00  MES = 4.00 Iteraciones hechas con Newton Raphson: 3
+U88 = 2.252777  T = 88.00  MES = 5.00 Iteraciones hechas con Newton Raphson: 3
+U89 = 2.175691  T = 89.00  MES = 6.00 Iteraciones hechas con Newton Raphson: 3
+U90 = 3.606477  T = 90.00  MES = 7.00 Iteraciones hechas con Newton Raphson: 3
+U91 = 3.304905  T = 91.00  MES = 8.00 Iteraciones hechas con Newton Raphson: 3
+U92 = 3.048812  T = 92.00  MES = 9.00 Iteraciones hechas con Newton Raphson: 3
+U93 = 2.830849  T = 93.00  MES = 10.00 Iteraciones hechas con Newton Raphson: 3
+U94 = 2.645030  T = 94.00  MES = 11.00 Iteraciones hechas con Newton Raphson: 3
+U95 = 2.486412  T = 95.00  MES = 12.00 Iteraciones hechas con Newton Raphson: 3
+Año: 9
+U96 = 2.724822  T = 96.00  MES = 1.00 Iteraciones hechas con Newton Raphson: 3
+U97 = 2.573849  T = 97.00  MES = 2.00 Iteraciones hechas con Newton Raphson: 3
+U98 = 2.446429  T = 98.00  MES = 3.00 Iteraciones hechas con Newton Raphson: 3
+U99 = 2.338792  T = 99.00  MES = 4.00 Iteraciones hechas con Newton Raphson: 3
+U100 = 2.247725  T = 100.00  MES = 5.00 Iteraciones hechas con Newton Raphson: 3
+U101 = 2.170567  T = 101.00  MES = 6.00 Iteraciones hechas con Newton Raphson: 3
+U102 = 3.605967  T = 102.00  MES = 7.00 Iteraciones hechas con Newton Raphson: 3
+U103 = 3.303312  T = 103.00  MES = 8.00 Iteraciones hechas con Newton Raphson: 3
+U104 = 3.046472  T = 104.00  MES = 9.00 Iteraciones hechas con Newton Raphson: 3
+U105 = 2.828010  T = 105.00  MES = 10.00 Iteraciones hechas con Newton Raphson: 3
+U106 = 2.641874  T = 106.00  MES = 11.00 Iteraciones hechas con Newton Raphson: 3
+U107 = 2.483073  T = 107.00  MES = 12.00 Iteraciones hechas con Newton Raphson: 3
+Año: 10
+U108 = 2.722455  T = 108.00  MES = 1.00 Iteraciones hechas con Newton Raphson: 3
+U109 = 2.570256  T = 109.00  MES = 2.00 Iteraciones hechas con Newton Raphson: 3
+U110 = 2.442049  T = 110.00  MES = 3.00 Iteraciones hechas con Newton Raphson: 3
+U111 = 2.333951  T = 111.00  MES = 4.00 Iteraciones hechas con Newton Raphson: 3
+U112 = 2.242654  T = 112.00  MES = 5.00 Iteraciones hechas con Newton Raphson: 3
+U113 = 2.165425  T = 113.00  MES = 6.00 Iteraciones hechas con Newton Raphson: 3
+U114 = 3.605469  T = 114.00  MES = 7.00 Iteraciones hechas con Newton Raphson: 3
+U115 = 3.301722  T = 115.00  MES = 8.00 Iteraciones hechas con Newton Raphson: 3
+U116 = 3.044131  T = 116.00  MES = 9.00 Iteraciones hechas con Newton Raphson: 3
+U117 = 2.825167  T = 117.00  MES = 10.00 Iteraciones hechas con Newton Raphson: 3
+U118 = 2.638713  T = 118.00  MES = 11.00 Iteraciones hechas con Newton Raphson: 3
+U119 = 2.479728  T = 119.00  MES = 12.00 Iteraciones hechas con Newton Raphson: 3
+Año: 11
+U120 = 2.720094  T = 120.00  MES = 1.00 Iteraciones hechas con Newton Raphson: 3
+U121 = 2.566654  T = 121.00  MES = 2.00 Iteraciones hechas con Newton Raphson: 3
+U122 = 2.437652  T = 122.00  MES = 3.00 Iteraciones hechas con Newton Raphson: 3
+U123 = 2.329090  T = 123.00  MES = 4.00 Iteraciones hechas con Newton Raphson: 3
+U124 = 2.237562  T = 124.00  MES = 5.00 Iteraciones hechas con Newton Raphson: 3
+U125 = 2.160264  T = 125.00  MES = 6.00 Iteraciones hechas con Newton Raphson: 3
+U126 = 3.604982  T = 126.00  MES = 7.00 Iteraciones hechas con Newton Raphson: 3
+U127 = 3.300135  T = 127.00  MES = 8.00 Iteraciones hechas con Newton Raphson: 3
+U128 = 3.041789  T = 128.00  MES = 9.00 Iteraciones hechas con Newton Raphson: 3
+U129 = 2.822320  T = 129.00  MES = 10.00 Iteraciones hechas con Newton Raphson: 3
+U130 = 2.635546  T = 130.00  MES = 11.00 Iteraciones hechas con Newton Raphson: 3
+U131 = 2.476377  T = 131.00  MES = 12.00 Iteraciones hechas con Newton Raphson: 3
+Año: 12
+U132 = 2.717738  T = 132.00  MES = 1.00 Iteraciones hechas con Newton Raphson: 3
+U133 = 2.563042  T = 133.00  MES = 2.00 Iteraciones hechas con Newton Raphson: 3
+U134 = 2.433239  T = 134.00  MES = 3.00 Iteraciones hechas con Newton Raphson: 3
+U135 = 2.324210  T = 135.00  MES = 4.00 Iteraciones hechas con Newton Raphson: 3
+U136 = 2.232452  T = 136.00  MES = 5.00 Iteraciones hechas con Newton Raphson: 3
+U137 = 2.155086  T = 137.00  MES = 6.00 Iteraciones hechas con Newton Raphson: 3
+U138 = 3.604507  T = 138.00  MES = 7.00 Iteraciones hechas con Newton Raphson: 3
+U139 = 3.298553  T = 139.00  MES = 8.00 Iteraciones hechas con Newton Raphson: 3
+U140 = 3.039445  T = 140.00  MES = 9.00 Iteraciones hechas con Newton Raphson: 3
+U141 = 2.819470  T = 141.00  MES = 10.00 Iteraciones hechas con Newton Raphson: 3
+U142 = 2.632375  T = 142.00  MES = 11.00 Iteraciones hechas con Newton Raphson: 3
+U143 = 2.473021  T = 143.00  MES = 12.00 Iteraciones hechas con Newton Raphson: 3
+Año: 13
+U144 = 2.715387  T = 144.00  MES = 1.00 Iteraciones hechas con Newton Raphson: 3
+U145 = 2.559419  T = 145.00  MES = 2.00 Iteraciones hechas con Newton Raphson: 3
+U146 = 2.428807  T = 146.00  MES = 3.00 Iteraciones hechas con Newton Raphson: 3
+U147 = 2.319309  T = 147.00  MES = 4.00 Iteraciones hechas con Newton Raphson: 3
+U148 = 2.227320  T = 148.00  MES = 5.00 Iteraciones hechas con Newton Raphson: 3
+U149 = 2.149888  T = 149.00  MES = 6.00 Iteraciones hechas con Newton Raphson: 3
+U150 = 3.604043  T = 150.00  MES = 7.00 Iteraciones hechas con Newton Raphson: 3
+U151 = 3.296973  T = 151.00  MES = 8.00 Iteraciones hechas con Newton Raphson: 3
+U152 = 3.037101  T = 152.00  MES = 9.00 Iteraciones hechas con Newton Raphson: 3
+U153 = 2.816616  T = 153.00  MES = 10.00 Iteraciones hechas con Newton Raphson: 3
+U154 = 2.629198  T = 154.00  MES = 11.00 Iteraciones hechas con Newton Raphson: 3
+U155 = 2.469660  T = 155.00  MES = 12.00 Iteraciones hechas con Newton Raphson: 3
+Año: 14
+U156 = 2.713042  T = 156.00  MES = 1.00 Iteraciones hechas con Newton Raphson: 3
+U157 = 2.555788  T = 157.00  MES = 2.00 Iteraciones hechas con Newton Raphson: 3
+U158 = 2.424360  T = 158.00  MES = 3.00 Iteraciones hechas con Newton Raphson: 3
+U159 = 2.314390  T = 159.00  MES = 4.00 Iteraciones hechas con Newton Raphson: 3
+U160 = 2.222170  T = 160.00  MES = 5.00 Iteraciones hechas con Newton Raphson: 3
+U161 = 2.144672  T = 161.00  MES = 6.00 Iteraciones hechas con Newton Raphson: 3
+U162 = 3.603593  T = 162.00  MES = 7.00 Iteraciones hechas con Newton Raphson: 3
+U163 = 3.295399  T = 163.00  MES = 8.00 Iteraciones hechas con Newton Raphson: 3
+U164 = 3.034755  T = 164.00  MES = 9.00 Iteraciones hechas con Newton Raphson: 3
+U165 = 2.813758  T = 165.00  MES = 10.00 Iteraciones hechas con Newton Raphson: 3
+U166 = 2.626017  T = 166.00  MES = 11.00 Iteraciones hechas con Newton Raphson: 3
+U167 = 2.466292  T = 167.00  MES = 12.00 Iteraciones hechas con Newton Raphson: 3
+Año: 15
+U168 = 2.710702  T = 168.00  MES = 1.00 Iteraciones hechas con Newton Raphson: 3
+U169 = 2.552146  T = 169.00  MES = 2.00 Iteraciones hechas con Newton Raphson: 3
+U170 = 2.419894  T = 170.00  MES = 3.00 Iteraciones hechas con Newton Raphson: 3
+U171 = 2.309450  T = 171.00  MES = 4.00 Iteraciones hechas con Newton Raphson: 3
+U172 = 2.216999  T = 172.00  MES = 5.00 Iteraciones hechas con Newton Raphson: 3
+U173 = 2.139437  T = 173.00  MES = 6.00 Iteraciones hechas con Newton Raphson: 3
+U174 = 3.603154  T = 174.00  MES = 7.00 Iteraciones hechas con Newton Raphson: 3
+U175 = 3.293828  T = 175.00  MES = 8.00 Iteraciones hechas con Newton Raphson: 3
+U176 = 3.032409  T = 176.00  MES = 9.00 Iteraciones hechas con Newton Raphson: 3
+U177 = 2.810896  T = 177.00  MES = 10.00 Iteraciones hechas con Newton Raphson: 3
+U178 = 2.622830  T = 178.00  MES = 11.00 Iteraciones hechas con Newton Raphson: 3
+U179 = 2.462919  T = 179.00  MES = 12.00 Iteraciones hechas con Newton Raphson: 3
+Año: 16
+U180 = 2.708369  T = 180.00  MES = 1.00 Iteraciones hechas con Newton Raphson: 3
+U181 = 2.548494  T = 181.00  MES = 2.00 Iteraciones hechas con Newton Raphson: 3
+U182 = 2.415411  T = 182.00  MES = 3.00 Iteraciones hechas con Newton Raphson: 3
+U183 = 2.304490  T = 183.00  MES = 4.00 Iteraciones hechas con Newton Raphson: 3
+U184 = 2.211808  T = 184.00  MES = 5.00 Iteraciones hechas con Newton Raphson: 3
+U185 = 2.134184  T = 185.00  MES = 6.00 Iteraciones hechas con Newton Raphson: 3
+U186 = 3.602728  T = 186.00  MES = 7.00 Iteraciones hechas con Newton Raphson: 3
+U187 = 3.292261  T = 187.00  MES = 8.00 Iteraciones hechas con Newton Raphson: 3
+U188 = 3.030062  T = 188.00  MES = 9.00 Iteraciones hechas con Newton Raphson: 3
+U189 = 2.808031  T = 189.00  MES = 10.00 Iteraciones hechas con Newton Raphson: 3
+U190 = 2.619638  T = 190.00  MES = 11.00 Iteraciones hechas con Newton Raphson: 3
+U191 = 2.459541  T = 191.00  MES = 12.00 Iteraciones hechas con Newton Raphson: 3
+Año: 17
+U192 = 2.706042  T = 192.00  MES = 1.00 Iteraciones hechas con Newton Raphson: 3
+U193 = 2.544832  T = 193.00  MES = 2.00 Iteraciones hechas con Newton Raphson: 3
+U194 = 2.410910  T = 194.00  MES = 3.00 Iteraciones hechas con Newton Raphson: 3
+U195 = 2.299509  T = 195.00  MES = 4.00 Iteraciones hechas con Newton Raphson: 3
+U196 = 2.206596  T = 196.00  MES = 5.00 Iteraciones hechas con Newton Raphson: 3
+U197 = 2.128911  T = 197.00  MES = 6.00 Iteraciones hechas con Newton Raphson: 3
+U198 = 3.602315  T = 198.00  MES = 7.00 Iteraciones hechas con Newton Raphson: 3
+U199 = 3.290698  T = 199.00  MES = 8.00 Iteraciones hechas con Newton Raphson: 3
+U200 = 3.027713  T = 200.00  MES = 9.00 Iteraciones hechas con Newton Raphson: 3
+U201 = 2.805162  T = 201.00  MES = 10.00 Iteraciones hechas con Newton Raphson: 3
+U202 = 2.616441  T = 202.00  MES = 11.00 Iteraciones hechas con Newton Raphson: 3
+U203 = 2.456157  T = 203.00  MES = 12.00 Iteraciones hechas con Newton Raphson: 3
+Año: 18
+U204 = 2.703722  T = 204.00  MES = 1.00 Iteraciones hechas con Newton Raphson: 3
+U205 = 2.541160  T = 205.00  MES = 2.00 Iteraciones hechas con Newton Raphson: 3
+U206 = 2.406391  T = 206.00  MES = 3.00 Iteraciones hechas con Newton Raphson: 3
+U207 = 2.294507  T = 207.00  MES = 4.00 Iteraciones hechas con Newton Raphson: 3
+U208 = 2.201364  T = 208.00  MES = 5.00 Iteraciones hechas con Newton Raphson: 3
+U209 = 2.123619  T = 209.00  MES = 6.00 Iteraciones hechas con Newton Raphson: 3
+U210 = 3.601914  T = 210.00  MES = 7.00 Iteraciones hechas con Newton Raphson: 3
+U211 = 3.289140  T = 211.00  MES = 8.00 Iteraciones hechas con Newton Raphson: 3
+U212 = 3.025364  T = 212.00  MES = 9.00 Iteraciones hechas con Newton Raphson: 3
+U213 = 2.802289  T = 213.00  MES = 10.00 Iteraciones hechas con Newton Raphson: 3
+U214 = 2.613240  T = 214.00  MES = 11.00 Iteraciones hechas con Newton Raphson: 3
+U215 = 2.452768  T = 215.00  MES = 12.00 Iteraciones hechas con Newton Raphson: 3
+Año: 19
+U216 = 2.701408  T = 216.00  MES = 1.00 Iteraciones hechas con Newton Raphson: 3
+U217 = 2.537478  T = 217.00  MES = 2.00 Iteraciones hechas con Newton Raphson: 3
+U218 = 2.401854  T = 218.00  MES = 3.00 Iteraciones hechas con Newton Raphson: 3
+U219 = 2.289485  T = 219.00  MES = 4.00 Iteraciones hechas con Newton Raphson: 3
+U220 = 2.196110  T = 220.00  MES = 5.00 Iteraciones hechas con Newton Raphson: 3
+U221 = 2.118308  T = 221.00  MES = 6.00 Iteraciones hechas con Newton Raphson: 3
+U222 = 3.601527  T = 222.00  MES = 7.00 Iteraciones hechas con Newton Raphson: 3
+U223 = 3.287585  T = 223.00  MES = 8.00 Iteraciones hechas con Newton Raphson: 3
+U224 = 3.023014  T = 224.00  MES = 9.00 Iteraciones hechas con Newton Raphson: 3
+U225 = 2.799413  T = 225.00  MES = 10.00 Iteraciones hechas con Newton Raphson: 3
+U226 = 2.610032  T = 226.00  MES = 11.00 Iteraciones hechas con Newton Raphson: 3
+U227 = 2.449372  T = 227.00  MES = 12.00 Iteraciones hechas con Newton Raphson: 3
+Año: 20
+U228 = 2.699100  T = 228.00  MES = 1.00 Iteraciones hechas con Newton Raphson: 3
+U229 = 2.533786  T = 229.00  MES = 2.00 Iteraciones hechas con Newton Raphson: 3
+U230 = 2.397298  T = 230.00  MES = 3.00 Iteraciones hechas con Newton Raphson: 3
+U231 = 2.284441  T = 231.00  MES = 4.00 Iteraciones hechas con Newton Raphson: 3
+U232 = 2.190836  T = 232.00  MES = 5.00 Iteraciones hechas con Newton Raphson: 3
+U233 = 2.112977  T = 233.00  MES = 6.00 Iteraciones hechas con Newton Raphson: 3
+U234 = 3.601153  T = 234.00  MES = 7.00 Iteraciones hechas con Newton Raphson: 3
+U235 = 3.286036  T = 235.00  MES = 8.00 Iteraciones hechas con Newton Raphson: 3
+U236 = 3.020663  T = 236.00  MES = 9.00 Iteraciones hechas con Newton Raphson: 3
+U237 = 2.796532  T = 237.00  MES = 10.00 Iteraciones hechas con Newton Raphson: 3
+U238 = 2.606820  T = 238.00  MES = 11.00 Iteraciones hechas con Newton Raphson: 3
+U239 = 2.445971  T = 239.00  MES = 12.00 Iteraciones hechas con Newton Raphson: 3
+Año: 21
+U240 = 2.696800  T = 240.00  MES = 1.00 Iteraciones hechas con Newton Raphson: 3
